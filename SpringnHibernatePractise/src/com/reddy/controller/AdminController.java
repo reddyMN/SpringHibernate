@@ -13,7 +13,7 @@ public class AdminController {
  
 		ModelAndView model = new ModelAndView("AdminLogin");
 		//model.addObject("msg", "hello world");
- 
+ System.out.println("comiiting");
 		return "AdminLogin";//new ModelAndView("AdminLogin","name","Narasimha reddy");
 	}
 	
