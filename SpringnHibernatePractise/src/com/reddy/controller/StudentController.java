@@ -1,5 +1,7 @@
 package com.reddy.controller;
 
 public class StudentController {
- System.out.println("Student");
+public static void main(String[] args) {
+	System.out.println("StudentController.main()");
+}
 }
