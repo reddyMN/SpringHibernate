@@ -7,7 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:forward page="welcome.html"></jsp:forward> 
+<h1>HomePage</h1>
+<center>
+<h1><a href="register">Register</a><br/></h1>
+<h1><a href="login">Login</a><br/></h1>
+
+
+</center>
+
+
 <!-- <a href="welcome.html">click here</a> -->
 </body>
 </html>
