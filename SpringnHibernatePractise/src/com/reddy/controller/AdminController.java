@@ -10,7 +10,8 @@ public class AdminController {
 
 	@RequestMapping("/welcome")
 	public String helloWorld(){
- 
+ System.out.println("kjdfjjdadskjfaskdljNarasimha reddy");
+
 		ModelAndView model = new ModelAndView("AdminLogin");
 		//model.addObject("msg", "hello world");
  System.out.println("comiiting");
